@@ -7,7 +7,7 @@ This repository contains a custom bios for for the ASUS P8Z77-V-LX Rev2.0 mother
 
 ## Features
  - Support for **NVMe Boot**
- - Costom splash screen
+ - Custom splash screen
 
 # DISCLAIMER
 
