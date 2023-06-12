@@ -32,7 +32,7 @@ First step is:
 
 Then, make sure your drive is properly connected. If you do not have a GPU connected to the top PCIE 3.0 slot, you should use that slot, as otherwise your READ/WRITE speeds will be limited. If you do have a GPU, connect it to the bottom PCIe2.0 slot. While your speeds will be limited, it will still be faster than a SATA SSD. The following picture demonstrates that, make sure to use the top slot if you can.
 
-<p align="center"> <a href="https://github.com/NedimKunovac/graduation_project/blob/main/assets/images/introduction.png" target="_blank" rel="noreferrer"> <img src="https://github.com/NedimKunovac/graduation_project/blob/main/assets/images/introduction.png" alt="Motherboard Photo"/> </a> </p>
+<p align="center"> <a href="(https://github.com/EdinZiga/P8Z77-V-LX-Rev2.0-NVME-Boot-BIOS-2501/blob/main/Screenshots/Motherboard.jpg)" target="_blank" rel="noreferrer"> <img src="https://github.com/EdinZiga/P8Z77-V-LX-Rev2.0-NVME-Boot-BIOS-2501/blob/main/Screenshots/Motherboard.jpg" alt="Motherboard Photo"/> </a> </p>
 
 
 After connecting the adapter with the drive, download this repository to your machine. Extract it anywhere you prefer, I suggest using your desktop as it is the easiest. After extracting the repository, do the following
