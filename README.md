@@ -1,5 +1,5 @@
 
-# ASUS P8Z77-V-LX Rev 2.0 Custom Bios (ver 2501) with support for NVMe Boot
+# Custom BIOS for ASUS P8Z77-V-LX Rev 2.0 (ver. 2501) with support for NVMe Boot
 
 <p align="center"> <a href="(https://github.com/EdinZiga/P8Z77-V-LX-Rev2.0-NVME-Boot-BIOS-2501/blob/main/Screenshots/Bootleg Logo.jpg)" target="_blank" rel="noreferrer"> <img src="https://github.com/EdinZiga/P8Z77-V-LX-Rev2.0-NVME-Boot-BIOS-2501/blob/main/Screenshots/Bootleg Logo.jpg" alt="Motherboard Photo"/> </a> </p>
 
