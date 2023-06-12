@@ -1,6 +1,8 @@
 
 # ASUS P8Z77-V-LX Rev 2.0 Custom Bios (ver 2501) with support for NVMe Boot
 
+<p align="center"> <a href="(https://github.com/EdinZiga/P8Z77-V-LX-Rev2.0-NVME-Boot-BIOS-2501/blob/main/Screenshots/Bootleg Logo.jpg)" target="_blank" rel="noreferrer"> <img src="https://github.com/EdinZiga/P8Z77-V-LX-Rev2.0-NVME-Boot-BIOS-2501/blob/main/Screenshots/Bootleg Logo.jpg" alt="Motherboard Photo"/> </a> </p>
+
 This repository contains a custom bios for for the ASUS P8Z77-V-LX Rev2.0 motherboard. Version 2501 supports reading from NVMe drives when an adapter is used, but does not support booting from them. This BIOS includes a driver from the Z87 line of motherboards for that functionality.  
 
 ## Features
